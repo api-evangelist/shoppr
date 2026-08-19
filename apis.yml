@@ -29,7 +29,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-note: Consumer app defunct; team pivoted to Omnilytics (B2B fashion analytics); omnilytics.co domain
   now parked (lander.d.parity.domains). No public API surface found as of 2026-07-21.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
