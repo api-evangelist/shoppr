@@ -31,6 +31,8 @@ description: Shoppr was a Malaysia-based consumer fashion-discovery mobile app (
   Shoppr nor Omnilytics exposes any public developer API, documentation, SDK, or developer portal. This entry
   originated as a 500 Global portfolio lead and is retained for record; it has no API surface to enrich.
 url: https://raw.githubusercontent.com/api-evangelist/shoppr/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
